@@ -29,7 +29,7 @@ export default function AdminLogin() {
         background: "linear-gradient(135deg, #667eea, #764ba2)",
       }}
     >
-      <p>filter feature;</p>
+      <p>button feature;</p>
       <form
         onSubmit={handleSubmit}
         style={{
