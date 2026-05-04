@@ -5,6 +5,8 @@ function Buttons() {
     <>
       <div>
         <span>added span tag</span>
+        <span>ui tag</span>
+
       </div>
     </>
   );
