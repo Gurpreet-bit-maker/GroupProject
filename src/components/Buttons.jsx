@@ -4,8 +4,7 @@ function Buttons() {
   return (
     <>
       <div>
-        <input type="text" placeholder="Enter your name" />
-        <button>Click Me!</button>
+        <span>added span tag</span>
       </div>
     </>
   );
