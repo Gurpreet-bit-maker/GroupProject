@@ -90,6 +90,7 @@ export default function AdminLogin() {
           Login as Admin
         </button>
       </form>
+      <button>Click me</button>
     </div>
   );
 }
