@@ -2,7 +2,7 @@ import { useState } from "react";
 
 export default function AdminLogin() {
   const [email, setEmail] = useState("");
-  const [password, setPassword] = useState("")
+  const [password, setPassword] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -29,6 +29,7 @@ export default function AdminLogin() {
         background: "linear-gradient(135deg, #667eea, #764ba2)",
       }}
     >
+      <p>form feature</p>
       <form
         onSubmit={handleSubmit}
         style={{
