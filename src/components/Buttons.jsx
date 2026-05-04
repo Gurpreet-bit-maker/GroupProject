@@ -5,6 +5,7 @@ function Buttons() {
     <>
       <div>
         <span>added span tag</span>
+        <input type="text" />
       </div>
     </>
   );
