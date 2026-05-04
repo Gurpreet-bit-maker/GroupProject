@@ -4,7 +4,7 @@ function Buttons() {
   return (
     <>
       <div>
-       
+        <button>Click Me!</button>
       </div>
     </>
   );
